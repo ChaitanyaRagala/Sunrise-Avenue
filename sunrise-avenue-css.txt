@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.sunrise-avenue-home {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.sunrise-avenue-home-text {
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 50px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.home-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #f19116;
+}
+
+.home-para {
+    font-family: "Bree Serif";
+    color: #7b8794;
+}
+
+.butn1 {
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
+
+.butn {
+    border-width: 0px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 3px;
+    padding: 8px;
+}
+
+.flat-lists {
+    background-color: #222222;
+}
+
+.flat-lists-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 28px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.list-container {
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.list-img {}
+
+.list-img1 {
+    height: 170px;
+    width: 80px;
+}
+
+.list-container-text {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.flat-heading {
+    font-family: "Bree Serif";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.flat-para {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.botn {
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+.flat-page {
+    background-color: #222222;
+}
+
+.flat-img1 {
+    width: 96vw;
+    background-size: cover;
+    height: 40vh;
+}
+
+.flat-text {
+    font-family: "Bree Serif";
+    padding: 25px;
+}
+
+.flat-cost {
+    color: #f19116;
+    font-size: 30px;
+}
+
+.location {
+    padding-top: 10px;
+}
+
+.location-text {
+    color: #ffffff;
+}
+
+.location-img {
+    height: 25px;
+}
+
+.description {
+    color: #f19116;
+    font-size: 30px;
+}
+
+.descrption-para {
+    color: #ffffff;
+}
+
+.flat-button {
+    text-align: center;
+    padding-bottom: 25px;
+}
